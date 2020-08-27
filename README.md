@@ -1,0 +1,1 @@
+# Calculation-of-the-relationship-between-job-advertisements-and-CV-s-with-using-TF-IDF
