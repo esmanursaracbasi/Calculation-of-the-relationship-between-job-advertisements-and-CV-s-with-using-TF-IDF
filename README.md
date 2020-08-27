@@ -1,1 +1,1 @@
-# Calculation-of-the-relationship-between-job-advertisements-and-CV-s-with-using-TF-IDF
+In this project, I have used Python 3 language and for libraries I have used Gensim and nltk for preproceesing data.
